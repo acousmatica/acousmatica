@@ -9,6 +9,7 @@ import soundfile as sf
 import tempfile
 import requests
 
+<style>
 hide_streamlit_style = """
             <style>
             [data-testid="stToolbar"] {visibility: hidden !important;}
