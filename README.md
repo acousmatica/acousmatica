@@ -1,4 +1,7 @@
-## Hi there 👋
+## Acousmática
+dos cálculos para o som: transformar progressões em música 
+
+Prémio PEDRO MATOS 2025
 
 <!--
 **acousmatica/acousmatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
