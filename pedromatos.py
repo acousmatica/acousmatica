@@ -9,14 +9,6 @@ import soundfile as sf
 import tempfile
 import requests
 
-<style>
-hide_streamlit_style = """
-            <style>
-            [data-testid="stToolbar"] {visibility: hidden !important;}
-            footer {visibility: hidden !important;}
-            </style>
-            """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 # Dicionário de frequências e notas
 frequencias_notas = {
